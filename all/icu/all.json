@@ -1,5 +1,7 @@
 [
 	"accessconnect.icu",
+	"activatenodes.icu",
+	"appconnect.icu",
 	"authassets.icu",
 	"authenticateaddress.icu",
 	"authyconnector.icu",
@@ -9,6 +11,7 @@
 	"contractsync.icu",
 	"corewallet.icu",
 	"crypto-walletconnect.icu",
+	"dapprotocol.icu",
 	"defi-protocol.icu",
 	"holdervalidator.icu",
 	"imatoken.icu",
@@ -25,7 +28,9 @@
 	"metemaskt.icu",
 	"mymultinodes.icu",
 	"nodevalidation.icu",
+	"onepoint.icu",
 	"pancakesvvap.icu",
+	"pancekeswap.icu",
 	"reservedapptool.icu",
 	"supportinterface.icu",
 	"tokenpockat.icu",
@@ -40,6 +45,7 @@
 	"walletsource.icu",
 	"walletsupport24.icu",
 	"web-polygonwallets.icu",
+	"web-zksync.icu",
 	"web3dapp.icu",
 	"webpolygon-wallets.icu",
 	"woodpeckersint.icu"

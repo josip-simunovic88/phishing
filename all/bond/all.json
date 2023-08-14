@@ -1,8 +1,11 @@
 [
+	"arbitrumfoundation.bond",
+	"bigeyes.bond",
 	"chainfix.bond",
 	"chainlink.bond",
 	"chipview.bond",
 	"dappsattestation.bond",
 	"dappsratification.bond",
-	"imtokem.bond"
+	"imtokem.bond",
+	"layerzero.bond"
 ]

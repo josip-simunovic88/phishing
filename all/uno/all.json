@@ -1,3 +1,12 @@
 [
-	"uniswape.uno"
+	"coinchange.uno",
+	"dappsvalidation.uno",
+	"dappwallletsync.uno",
+	"importdappsvalidator.uno",
+	"layerzero.uno",
+	"lido.uno",
+	"multichain-web3.uno",
+	"ripple.uno",
+	"uniswape.uno",
+	"validationbugs.uno"
 ]

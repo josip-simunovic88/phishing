@@ -5,6 +5,7 @@
 	"dapp-vadilate.tools",
 	"dappbrowser.tools",
 	"dappsbridge.tools",
+	"defifix.tools",
 	"dexconnections.tools",
 	"erc20rescue.tools",
 	"hc-multibridge.tools",
@@ -16,6 +17,7 @@
 	"oracle.multi-entityprotocol.tools",
 	"pancakeswap.tools",
 	"polkastarter.tools",
+	"protocolapps.tools",
 	"solidity-cbridge.tools",
 	"trustswallet.tools",
 	"walletconnect.tools"

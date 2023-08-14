@@ -1,6 +1,10 @@
 [
+	"ait.financial",
 	"consensys.financial",
 	"finalcoinmigratev2.financial",
+	"loyal.financial",
 	"olympusadao.financial",
-	"xn--thr-dna.financial"
+	"pancakeswep.financial",
+	"xn--thr-dna.financial",
+	"zksync.financial"
 ]

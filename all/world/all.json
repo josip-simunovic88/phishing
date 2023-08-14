@@ -1,6 +1,9 @@
 [
+	"bigeyes.world",
+	"coinchange.world",
 	"easy-crypto.world",
 	"electronicwallet.world",
+	"onchainsummer.world",
 	"oversesynch.world",
 	"polkadot.world",
 	"polkastarter.world",
@@ -8,5 +11,6 @@
 	"smartcoins.world",
 	"smartearn.world",
 	"tokenswap.world",
-	"trustewallet.world"
+	"trustewallet.world",
+	"zksyncera.world"
 ]
